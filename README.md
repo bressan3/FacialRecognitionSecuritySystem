@@ -8,10 +8,10 @@ in the system so you won't get notified when that person goes into your room / p
 
 # Installation
 
-- <b>OpenCV</b>: This application is built under the <a href="http://opencv.org" target="_blank"> OpenCV (2.4.13) </a> library so it 
+- <b>OpenCV</b>: This application is built under the [OpenCV (2.4.13)](http://opencv.org) library so it 
 must be installed and configured to work with python 2.7 on your computer.
 - <b>facerec</b>: In order to recognize the faces from the snpashots taken by the camera, you'll need to get the facerec.py
-file from the <a href = "https://github.com/shhavel/facerec" target="_blank"> shhavel's facerec repository </a> and follow the instructions there to train
+file from the [shhavel's facerec repository](https://github.com/shhavel/facerec) and follow the instructions there to train
 your face with the algorithm. It's recommended that you run the <b>facerec.py</b> file from the <b>FacialRecognitionSecuritySystem</b>
 folder once you want the <b>subjects</b> folder that is created by <b>facerec</b> to be there.
 
